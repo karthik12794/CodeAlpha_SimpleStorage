@@ -29,3 +29,4 @@ The value can be incremented or decremented using public functions.
 ## 🧪 Testing
 - Deployed using Remix IDE
 - Verified increment & decrement functionality
+- <img width="926" height="740" alt="Image" src="https://github.com/user-attachments/assets/7e9a1d88-a79a-4b55-a195-83ed952ab8a0" />

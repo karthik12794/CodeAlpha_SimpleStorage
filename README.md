@@ -1,5 +1,5 @@
 ## 👨‍💻 Intern Details
-**Name:**Kandimalla Karthik  
+**Name:** Kandimalla Karthik  
 **Domain:** Blockchain Development  
 **Organization:** CodeAlpha  
 - ## 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗜𝗗: CA/DF1/32239
